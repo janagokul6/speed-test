@@ -354,6 +354,14 @@ color: #14b0fe;
   height: 100vh;
 }
 
+.Desktop {
+  pointer-events: none;
+}
+
+.Mobile {
+  pointer-events: none;
+}
+
 @media only screen and (orientation: landscape) {
   .Mobile {
     visibility: hidden;
