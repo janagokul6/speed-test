@@ -356,6 +356,7 @@ color: #14b0fe;
 
 .Desktop {
   pointer-events: none;
+  /* comment */
 }
 
 .Mobile {
